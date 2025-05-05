@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Filter and sort functionality
     filterSelect.addEventListener('change', filterTasks);
-    sortSelect.addEventListener('change', () => filterTasks());
+    sortSelect.addEventListener('change', renderTasks);
 
     // Clear completed tasks
     clearCompletedButton.addEventListener('click', clearCompletedTasks);
