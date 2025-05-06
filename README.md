@@ -1,7 +1,22 @@
 # Enhanced To-Do List
 
-## 🚀 Live Demo
-[https://to-do-list-ochre-beta.vercel.app/](https://to-do-list-ochre-beta.vercel.app/)
+[Live Demo on Vercel](https://to-do-list-ochre-beta.vercel.app/)
+
+![App Screenshot](screenshot.png)
+
+---
+
+## Team
+- **Mohamed Ahmed** (192100046)
+- **Ahmed Shawky** (192100096)
+- **Shehab Mohamed** (192100097)
+
+## Course Info
+- **Course:** SET-372 Internet Programming
+- **Supervisor:** Dr. Fatma Sakr
+- **T.A.:** Eng. Doaa Amin
+
+---
 
 A modern, visually appealing, dark-themed to-do list application with priority levels, categories, due dates, and search functionality.
 
@@ -17,12 +32,6 @@ A modern, visually appealing, dark-themed to-do list application with priority l
 - Clear completed tasks
 - Responsive and mobile-friendly design
 - Smooth hover and focus effects for better UX
-
-## Screenshot
-
-![App Screenshot](screenshot.png)
-
-Or see it live here: [https://to-do-list-ochre-beta.vercel.app/](https://to-do-list-ochre-beta.vercel.app/)
 
 ## Deployment to Vercel
 
