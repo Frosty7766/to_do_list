@@ -33,17 +33,6 @@ A modern, visually appealing, dark-themed to-do list application with priority l
 - Responsive and mobile-friendly design
 - Smooth hover and focus effects for better UX
 
-## Deployment to Vercel
-
-1. Create a GitHub repository and push your code
-2. Make sure all your static files (`index.html`, `styles.css`, `script.js`) are in the `public` directory
-3. Remove any custom `vercel.json` for pure static serving
-4. Go to [Vercel](https://vercel.com)
-5. Sign in with your GitHub account
-6. Click "New Project" and import your repository
-7. Vercel will automatically detect the configuration and deploy your site
-8. Once deployed, you'll get a URL like `https://your-project-name.vercel.app`
-
 ## Local Development
 
 1. Clone the repository
