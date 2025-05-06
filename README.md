@@ -1,4 +1,4 @@
-# Enhanced To-Do List
+# TaskFlow
 
 [Live Demo on Vercel](https://to-do-list-ochre-beta.vercel.app/)
 
@@ -52,4 +52,4 @@ A modern, visually appealing, dark-themed to-do list application with priority l
 
 ---
 
-**Enjoy your beautiful, modern to-do list!** 
+**Enjoy your beautiful, modern TaskFlow app!** 
