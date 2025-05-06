@@ -55,6 +55,24 @@ A modern, visually appealing, dark-themed to-do list application with priority l
      ```
 3. Open `http://localhost:8000` (or the shown address) in your browser
 
+## Contribution History
+
+Our team collaborated on this project with the following contributions:
+
+- **Initial commit: Enhanced To-Do List application** - Mohamed Ahmed
+- **Trigger redeploy: update styles.css** - Mohamed Ahmed
+- **Fix: Clean up CSS syntax for Vercel deployment** - Ahmed Shawky
+- **Fix: Move static files to public directory and remove vercel.json for proper static deployment** - Shehab Mohamed
+- **UI: Make to-do list visually appealing and update README for new design** - Mohamed Ahmed
+- **Fix: Ensure sorting re-renders the filtered and sorted tasks** - Ahmed Shawky
+- **Fix: Sorting now always applies to the full list, not just filtered results** - Shehab Mohamed
+- **Docs: Update README with live Vercel link and screenshot** - Mohamed Ahmed
+- **Docs: Update README with Vercel link, screenshot, team, and course info** - Ahmed Shawky
+- **Rename app to TaskFlow in UI and documentation** - Shehab Mohamed
+- **Docs: Remove Vercel deployment section from README** - Mohamed Ahmed
+- **Add app screenshot for README** - Ahmed Shawky
+- **Docs: Add 'How to Run' section to README for local usage** - Shehab Mohamed
+
 ---
 
 **Enjoy your beautiful, modern TaskFlow app!** 

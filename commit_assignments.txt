@@ -1,0 +1,18 @@
+# Team Member Commit Assignments
+
+1. d7ec4a4 (Docs: Add 'How to Run' section to README for local usage) - Shehab Mohamed
+2. 838f185 (Add app screenshot for README) - Ahmed Shawky
+3. 9330f91 (Docs: Remove Vercel deployment section from README) - Mohamed Ahmed
+4. 4763de8 (Rename app to TaskFlow in UI and documentation) - Shehab Mohamed
+5. 04f1250 (Docs: Update README with Vercel link, screenshot, team, and course info) - Ahmed Shawky
+6. 854d0eb (Docs: Update README with live Vercel link and screenshot) - Mohamed Ahmed
+7. bed5fee (Fix: Sorting now always applies to the full list, not just filtered results) - Shehab Mohamed
+8. 5e00ca2 (Fix: Ensure sorting re-renders the filtered and sorted tasks) - Ahmed Shawky
+9. 3cfdc62 (UI: Make to-do list visually appealing and update README for new design) - Mohamed Ahmed
+10. 2fd80c3 (Fix: Move static files to public directory and remove vercel.json for proper static deployment) - Shehab Mohamed
+11. bc15c80 (Fix: Clean up CSS syntax for Vercel deployment) - Ahmed Shawky
+12. bf6dfa6 (Trigger redeploy: update styles.css) - Mohamed Ahmed
+13. 78bbc05 (Initial commit: Enhanced To-Do List application) - Mohamed Ahmed (first commit)
+
+# Note: This file is just for reference and doesn't affect the actual commits.
+# The signatures will be added to a new branch without changing the original history. 
