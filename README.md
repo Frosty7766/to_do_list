@@ -33,11 +33,27 @@ A modern, visually appealing, dark-themed to-do list application with priority l
 - Responsive and mobile-friendly design
 - Smooth hover and focus effects for better UX
 
-## Local Development
+## How to Run
 
-1. Clone the repository
-2. Open `public/index.html` in your browser
-3. No build process required - it's pure HTML, CSS, and JavaScript
+### Option 1: Open Directly
+1. Clone or download the repository
+2. Open `public/index.html` in your web browser
+
+### Option 2: Use a Local Server (Recommended for best experience)
+1. Open a terminal in the project directory
+2. Run a simple server (choose one):
+   - **Python 3:**
+     ```bash
+     cd public
+     python -m http.server 8000
+     ```
+   - **Node.js (http-server):**
+     ```bash
+     npm install -g http-server
+     cd public
+     http-server
+     ```
+3. Open `http://localhost:8000` (or the shown address) in your browser
 
 ---
 
